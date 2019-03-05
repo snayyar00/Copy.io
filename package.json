@@ -1,6 +1,22 @@
 {
-  "name": "socket-chat-example",
+  "name": "Copy.io",
   "version": "0.0.1",
   "description": "my first socket.io app",
-  "dependencies": {}
+  "dependencies": {
+    "socket.io": "^2.2.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snayyar00/Copy.io.git"
+  },
+  "author": "Sidharth Nayyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snayyar00/Copy.io/issues"
+  },
+  "homepage": "https://github.com/snayyar00/Copy.io#readme"
 }
